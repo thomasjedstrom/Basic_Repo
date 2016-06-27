@@ -1,0 +1,20 @@
+/*Global*/
+#wrapper{
+    background: black;
+    max-width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+}
+h1, h2, h3, h4, p{
+    color: lightcoral;
+}
+img{
+    border: 4px outset red;
+    margin: 10px;
+}
+#images{
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
